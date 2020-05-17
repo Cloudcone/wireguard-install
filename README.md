@@ -10,9 +10,5 @@ Run the script and follow the assistant:
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
 
-### I want to run my own VPN but don't have a server for that
-You can get a VPS from just $1/month at [VirMach](https://billing.virmach.com/aff.php?aff=4109&url=billing.virmach.com/cart.php?gid=18).
-
-### Donations
-
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [cryptocurrency](https://pastebin.com/raw/M2JJpQpC). Thanks!
+### Looking for a server?
+You can get a VPS at [CloudCone](https://cloudcone.com).
